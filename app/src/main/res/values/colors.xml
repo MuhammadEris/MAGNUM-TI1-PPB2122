@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#64b296</color>
+    <color name="primary_dark_color">#0c9869</color>
+    <color name="secondary_color">#F2E454</color>
+    <color name="secondary_dark_color">#bcb21b</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_edit_text">#DDE5E9</color>
+    <color name="buttonRippleColor">#33AAAAAA</color>
+    <color name="title_text_color">#1D2029</color>
+    <color name="subtitle_text_color">#ABB4BD</color>
+    <color name="white_background_progress">#FFFFFF</color>
+    <color name="transparent_background_progress">#CCFFFFFF</color>
+    <color name="textLogout">#ff3333</color>
+</resources>

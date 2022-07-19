@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "119770242759",
+    "firebase_url": "https://magnum-ppb2021-default-rtdb.firebaseio.com",
+    "project_id": "magnum-ppb2021",
+    "storage_bucket": "magnum-ppb2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119770242759:android:1d85487729d9600046a8e2",
+        "android_client_info": {
+          "package_name": "com.magnum_ti1.plant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119770242759-1ft0vdbnrn2ca9tc6jv0hd6g690pqs8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.magnum_ti1.plant",
+            "certificate_hash": "081022f0a17f4df9d9bc0ff9826cb02be72edb25"
+          }
+        },
+        {
+          "client_id": "119770242759-tavj762m3i4bidagr60n318cs56deaj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5YTU5YEzFDyFncO8-Chk4nAFQu_2LvxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119770242759-tavj762m3i4bidagr60n318cs56deaj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
